@@ -1,0 +1,67 @@
+{
+  "review_cutoff": "2042-04-11T07:00Z",
+  "station_count": 5,
+  "status_counts": {
+    "ALERT": 1,
+    "WATCH": 2,
+    "NO_SAMPLE": 1,
+    "CLEAR": 1
+  },
+  "stations": [
+    {
+      "station_id": "AS-205",
+      "label": "Birch Reach",
+      "river_km": 3.25,
+      "limit_ntu": 2.5,
+      "sample_count": 2,
+      "exceedance_count": 2,
+      "peak_captured_at": "2042-04-11T06:15Z",
+      "peak_turbidity_ntu": 3.1,
+      "status": "ALERT"
+    },
+    {
+      "station_id": "AS-508",
+      "label": "Elm Mouth",
+      "river_km": 3.25,
+      "limit_ntu": 5.0,
+      "sample_count": 2,
+      "exceedance_count": 1,
+      "peak_captured_at": "2042-04-11T07:00Z",
+      "peak_turbidity_ntu": 6,
+      "status": "WATCH"
+    },
+    {
+      "station_id": "AS-101",
+      "label": "Alder Gauge",
+      "river_km": 12.5,
+      "limit_ntu": 4.0,
+      "sample_count": 2,
+      "exceedance_count": 1,
+      "peak_captured_at": "2042-04-11T05:40Z",
+      "peak_turbidity_ntu": 4.2,
+      "status": "WATCH"
+    },
+    {
+      "station_id": "AS-330",
+      "label": "Cedar Bend",
+      "river_km": 18,
+      "limit_ntu": 1.75,
+      "sample_count": 0,
+      "exceedance_count": 0,
+      "peak_captured_at": null,
+      "peak_turbidity_ntu": null,
+      "status": "NO_SAMPLE"
+    },
+    {
+      "station_id": "AS-412",
+      "label": "Delta Ford",
+      "river_km": 7.5,
+      "limit_ntu": 3,
+      "sample_count": 2,
+      "exceedance_count": 0,
+      "peak_captured_at": "2042-04-11T06:50Z",
+      "peak_turbidity_ntu": 3.0,
+      "status": "CLEAR"
+    }
+  ]
+}
