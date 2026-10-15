@@ -1,0 +1,13 @@
+{"station_id":"AS-101","captured_at":"2042-04-11T05:40Z","turbidity_ntu":4.2,"sequence":4}
+{"station_id":"AS-205","captured_at":"2042-04-11T06:15Z","turbidity_ntu":3.1,"sequence":1}
+{"station_id":"AS-205","captured_at":"2042-04-11T06:35Z","turbidity_ntu":2.9,"sequence":3}
+{"station_id":"AS-412","captured_at":"2042-04-11T06:30Z","turbidity_ntu":2.8,"sequence":7}
+{"station_id":"AS-101","captured_at":"2042-04-11T06:45Z","turbidity_ntu":4.0,"sequence":2}
+{"station_id":"AS-508","captured_at":"2042-04-11T07:00Z","turbidity_ntu":6,"sequence":5}
+{"station_id":"AS-412","captured_at":"2042-04-11T06:50Z","turbidity_ntu":3.0,"sequence":8}
+{"station_id":"AS-508","captured_at":"2042-04-11T06:59Z","turbidity_ntu":4.0,"sequence":2}
+{"station_id":"AS-330","captured_at":"2042-04-11T07:01Z","turbidity_ntu":9,"sequence":1}
+{"station_id":"AS-205","captured_at":"not-a-time","turbidity_ntu":9,"sequence":9}
+{"station_id":"AS-999","captured_at":"2042-04-11T06:59Z","turbidity_ntu":8,"sequence":1}
+{"station_id":"AS-508","captured_at":"2042-04-11T06:59Z","turbidity_ntu":99,"sequence":6,"note":"bad"}
+not json
